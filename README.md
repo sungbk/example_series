@@ -1,4 +1,3 @@
 # hello-world
-welcome homework
 
-from my brain
+Branch for study
